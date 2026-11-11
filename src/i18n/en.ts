@@ -1,20 +1,20 @@
 const en = {
   // Header
-  "app.title": "OpenAI Agents Starter",
-  "app.subtitle": "Running on EdgeOne Makers with session memory & Agent Tools",
+  "app.title": "机佬AI",
+  "app.subtitle": "AI assistant for machinery repair folks · session memory & Agent Tools",
 
   // Empty state
-  "empty.title": "OpenAI Agents Starter",
-  "empty.hint": "I'm an OpenAI Agent running on EdgeOne with custom tools and session memory. I can help with weather, clothing advice, translation, and text statistics.",
-  "empty.features": "EdgeOne Store · Session Memory · Agent Tools",
+  "empty.title": "机佬AI",
+  "empty.hint": "I'm 机佬AI, an AI assistant for machinery repair folks. With custom tools and session memory, I can help you troubleshoot faults, plan repair steps and keep maintenance notes.",
+  "empty.features": "Repair Q&A · Session Memory · Agent Tools",
 
   // Chat input
   "chat.placeholder": "Type a message...  ⏎ Send · Shift+⏎ Newline",
-  "chat.hint": "Powered by OpenAI Agents SDK + EdgeOne Makers · Demo only",
+  "chat.hint": "机佬AI · AI assistant for mechanics · Demo only",
 
   // Preset questions
-  "preset.1": "What is the weather like in Beijing now? Any clothing suggestions?",
-  "preset.2": "Translate \"Hello, welcome to Beijing!\" into Chinese and count the characters.",
+  "preset.1": "My machine is making a strange noise — help me troubleshoot it step by step.",
+  "preset.2": "Draft a routine maintenance checklist for me.",
 
   // Tool indicators
   "tool.weather": "Weather",

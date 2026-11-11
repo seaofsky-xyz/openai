@@ -1,20 +1,20 @@
 const zh = {
   // Header
-  "app.title": "OpenAI Agents Starter",
-  "app.subtitle": "运行在 EdgeOne Makers 上，支持会话记忆、Agent Tools",
+  "app.title": "机佬AI",
+  "app.subtitle": "机修佬的 AI 助手 · 支持会话记忆、Agent Tools",
 
   // Empty state
-  "empty.title": "OpenAI Agents Starter",
-  "empty.hint": "我是运行在 EdgeOne 环境中的 OpenAI Agents，支持自定义工具、会话记忆，并帮助你完成天气查询、穿衣建议、翻译和文本统计。",
-  "empty.features": "EdgeOne Store · Session Memory · Agent Tools",
+  "empty.title": "机佬AI",
+  "empty.hint": "我是机佬AI，机修佬身边的 AI 助手。支持自定义工具与会话记忆，帮你查故障、理维修步骤、记保养笔记。",
+  "empty.features": "机修问答 · 会话记忆 · Agent Tools",
 
   // Chat input
   "chat.placeholder": "发消息…  ⏎ 发送 · Shift+⏎ 换行",
-  "chat.hint": "由 OpenAI Agents SDK + EdgeOne Makers 驱动 · 仅供演示",
+  "chat.hint": "机佬AI · 机修佬的 AI 助手 · 仅供演示",
 
   // Preset questions
-  "preset.1": "现在北京天气怎么样，有什么穿衣建议吗？",
-  "preset.2": "帮我翻译英文\"你好，欢迎来到北京！\"，并统计翻译字符数。",
+  "preset.1": "设备有异响，帮我理一份排查步骤。",
+  "preset.2": "帮我整理一份日常保养检查清单。",
 
   // Tool indicators
   "tool.weather": "天气查询",

@@ -1,4 +1,4 @@
-# OpenAI Agents Starter (Python)
+# 机佬AI · 机修佬的 AI 助手
 
 A full-stack EdgeOne Makers Agent template — streaming chat backed by the OpenAI Agents SDK (Python), with custom tools and `context.store`-backed conversation memory.
 
